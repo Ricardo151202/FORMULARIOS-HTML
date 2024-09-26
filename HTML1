@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>NBA</title>
+</head>
+<body>
+    <h1 style="color: red;">NBA</h1>
+    <h2 style="color: blue; font-family: Arial">Equipos</h2>
+    <p style="color: green; font-family: 'courier New';">Boston Celtics.</p>
+    <p style="color: purple; font-family: Verdana;">Los Angeles Lakers.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg" alt="Boston Celtics" width="200">
+    <img src="https://www.logodesign.org/wp-content/uploads/2023/09/image-2-1024x640-1.jpeg" alt="Los Angeles Lakers" width="200">
+</body>
+</html>
