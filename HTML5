@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<HTML lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de la MLB</title>
+</head>
+<body>
+   <form action="equipos_de_la_mlb.html" method="get">
+   <label for="nombre">Nombre de los Equipos</label>
+   <input type="text" id="Nombre" name="Nombre" ><br><br>
+
+   <label for="Equipos">Equipos</label>
+   <select id="Equipos
+       <option value="Boston Red Sox">Boston Red Sox</option>
+       <option value="Baltimore Orioles">Baltimore Orioles</option>
+   </select><br><br>
+
+ <label for="imagen">Imagen de los Equipos":</label>
+ <input type="https://i.ebayimg.com/images/g/rR4AAOSwQd5gMuFb" name="Boston Red Sox"><br><br>
+ <input type="https://seeklogo.com/images/B/baltimore-orioles-logo-9CE23E31DB" name="Baltimore Orioles"><br><br>
+
+   <input type="submit" value="enviar">
+  </form>
+ </body>
+</html>
