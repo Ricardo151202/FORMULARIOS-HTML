@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabla de la NFL</title>
+</head>
+<body>
+    <table border="1>
+       <tr>
+          <td><h1 style="color: black;">NFL</h1></td>
+          <td><a href="https://1000logos.net/wp-content/uploads/2017/06/Raiders" target="_blank">Raiders</a></td>
+       </tr>
+       <tr>
+         <td><img src"https://1000logos.net/wp-content/uploads/2017/06/Oakland-Raiders-Logo.png" alt="Los Raiders" widt="200"</td>
+         <td><a href="https://mascothalloffame.com/wp-content/uploads/2023/03/chicago-bears-logo" target="_blank">Bears</a></td>
+      </tr>
+       <tr>
+          <td><img src"https://mascothalloffame.com/wp-content/uploads/2023/03/chicago-bears-logo-transparent.png" alt="Los Osos de Chicago" widt="200"</td>
+          <td>Los Raiders y Los Osos de Chicago ganaron los Super Bowl Los Raiders con 3 y los Osos con 1.</td>
+    </tr>
+  </table>
+</body>
+</html>
