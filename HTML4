@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<HTML lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formularios de la NFL</title>
+</head>
+<body>
+ <form action="pagina_ficticia_de_los_estados_unidos.html" method="get">
+   <label for="nombre">Nombre de los Equipos</label>
+   <input type="text" id="Nombre" name="Nombre" ><br><br>
+
+   <label for="Conferencia">Conferencia</label>
+   <select type="text" name="Conferencia">
+       <option value="Americana">Americana</option>
+       <option value="Nacional">Nacional</option>
+   </select><br><br>
+   
+   <input type="Evento" id="Super Bowl" name="Super Bowl">
+   <label for="Super Bowl">¿Es el Super Domingo?</label><br><br>
+
+   <label>Campeon de la Conferencia Americana</label>
+   <input type="Champion" id="Baltimore Ravens" name="Baltimore Ravens">
+   <label>Campeon de la Conferencia Nacional</label>
+   <input type="Champion" id="New York Giants" name="New York Giants">
+   <label for="Winner">Baltimore Ravens</label><br><br>
+
+   <input type="submit" value="Confirmar">
+    </form>
+ </body>
+</html> 
+        
