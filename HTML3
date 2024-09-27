@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<HTML lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Equipos de la NBA</title>
+</head>
+<body>
+   <div style="border: 2px solid blue; padding: 10px;">
+        <h1 style="color: red;">NBA</h1>
+        <p>Equipos mas Iconicos de la NBA</p>
+   </div>
+
+<div style ="border: 2px solid orange; padding: 10px; margin-top: 10px;">
+    <img src="https://1000logos.net/wp-content/uploads/2021/04/Miami-Heat-logo.png" alt="Miami Heat" width="200">
+    <img src="https://crispbouncepass.com/wp-content/uploads/2021/07/phoenix_suns_logo_primary_20016802.png" alt="Phoenix Suns" width="200">
+  </div>
+
+<div>
+    <a href="https://www.youtube.com/watch?v=SjNmCV_8N5k&pp=ygUXbWlhbWkgaGVhdCBhcmVuYSBzb3VuZHM%3D" target="_blank">Sonido de Arena de los Heat</a>
+    <a href="https://www.youtube.com/watch?v=rEfEglngSiM&pp=ygUZcGhvZW5peCBzdW5zIGFyZW5hIHNvdW5kcw%3D%3D" target="_blank">Sonido de Arena de los Suns</a>
+  </div>
+</body>
+</html>
